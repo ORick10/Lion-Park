@@ -4,7 +4,7 @@
 <img src="https://github.com/Gustavo-Henrique-br/maratonaDiscover/blob/master/github/neverstoplearningHeader.png?raw=true">
 <h1>ferramentas 🔧</h1>
 utilizei na web:
-
+<tr>
 <p><i>next next foi o framework web que eu escolhi pra esse app
 
 <b>react e react-dom sao peer-dependencies do next</b>
