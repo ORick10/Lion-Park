@@ -13,10 +13,10 @@
 <body>
 
     <header>
-        <h1 id="logo">Finanças</h1>
+        <h1 id="logo">R$ Finanças</h1>
     </header>
 
-    <main>
+    <main class="container">
         <section id="balance">
         <h2>Balanço</h2>
 
@@ -30,7 +30,7 @@
         <P>R$ 2.000,00</P>
         </div>
 
-        <div class="card">
+        <div class="card total">
         <h3>Total</h3>
         <p>R$ 2.000,00</p>
         </div>
@@ -41,25 +41,25 @@
 
         <table id="data-table">
             <thead>
-                <tr>Deiscrição</tr>
-                <tr>Valor</tr>
-                <tr>Data</tr>
+                <th>Deiscrição</th>
+                <th>Valor</th>
+                <th>Data</th>
             </thead>
             <tbody>
                 <tr>
-                    <td>Luz</td>
-                    <td>- R$ 500,00</td>
-                    <td>23/01/2021</td>
+                    <td class="descripition">Luz</td>
+                    <td class="expense">- R$ 500,00</td>
+                    <td class="date">23/01/2021</td>
                 </tr>
                 <tr>
-                    <td>Criação website</td>
-                    <td>R$ 5000,00</td>
-                    <td>20/01/2021</td>
+                    <td class="descripition">Criação website</td>
+                    <td class="income">R$ 5000,00</td>
+                    <td class="date">20/01/2021</td>
                 </tr>
                 <tr>
-                    <td>Internet</td>
-                    <td>R$ 150,00</td>
-                    <td>07/01/2021</td>
+                    <td class="descripition">Internet</td>
+                    <td class="expense">-R$ 150,00</td>
+                    <td class="date">07/01/2021</td>
                 </tr>
             </tbody>
         </table>
