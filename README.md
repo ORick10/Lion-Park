@@ -4,11 +4,11 @@
 <img src="https://github.com/Gustavo-Henrique-br/maratonaDiscover/blob/master/github/neverstoplearningHeader.png?raw=true">
 <h1>ferramentas 🔧</h1>
 utilizei na web:
-<br>
-<i>next next foi o framework web que eu escolhi pra esse app
+
+<p><i>next next foi o framework web que eu escolhi pra esse app
 
 <b>react e react-dom sao peer-dependencies do next</b>
 
 styled-components
 
-<b>usei styled-components para a estilizacoes com props (tema nesse caso)</b></i>
+<b>usei styled-components para a estilizacoes com props (tema nesse caso)</b></i><p>
