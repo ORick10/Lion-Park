@@ -6,13 +6,10 @@
 <img src="https://github.com/Gustavo-Henrique-br/maratonaDiscover/blob/master/github/neverstoplearningHeader.png?raw=true">
 </kbd>
 ## Ferramentas 🔧
-utilizei na web:
-## Section
-✔️ Calculate\
+✔️ Visual Code
 
-To view a live example, **[click here](https://developerfolio.js.org/)**.
 <tr>
-<p><i>next next foi o framework web que eu escolhi pra esse app
+<p><i>next foi o framework web que eu escolhi pra esse app
 
 <b>react e react-dom sao peer-dependencies do next</b>
 
