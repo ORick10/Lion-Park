@@ -16,3 +16,4 @@
 styled-components
 
 <b>usei styled-components para a estilizacoes com props (tema nesse caso)</b></i><p>
+Update: 2020
